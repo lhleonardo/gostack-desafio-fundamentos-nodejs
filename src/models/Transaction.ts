@@ -1,5 +1,8 @@
 import { uuid } from 'uuidv4';
 
+/**
+ * Define uma transação
+ */
 class Transaction {
   id: string;
 
